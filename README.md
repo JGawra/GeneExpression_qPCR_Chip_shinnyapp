@@ -1,6 +1,10 @@
 About: Gene Expression Analysis Shiny App
 What is this?
 This program is an interactive platform for gene expression data analysis. Aslo can be used for any different type of data that have sample ID in the 1st column and Treatment group in the 2nd column and 3rd, 4th and so on different measurment for numeric data. You can perform outlier detection, imputation, statistical testing (ANOVA, Kruskal-Wallis, post-hoc tests), PCA, and generate publication-ready plots and summaries.
+You can access to the app here:
+
+https://janan91.shinyapps.io/GeneExpression_qPCR_Chip_shinnyapp_V11/
+
 
 Input File Format
 Upload your data as a CSV or TSV file with the following structure:
